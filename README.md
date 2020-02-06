@@ -1,5 +1,5 @@
-# Deep-Learning
-Data files and a tensorflow 2.0 Jupyter notebook for regression model using CNN applied to Power Systems
+# Temporal Convolutional Multithresholded Multiregression for Power Systems Variables Analyses and Predictions
+Data files and a tensorflow 2.0 Jupyter notebook for multiregression model using one dimensional CNN applied to Power Systems
 
 Data set are split into training and validation as follows:
 
